@@ -1,0 +1,106 @@
+# sent_id = belyx-011.000
+# text = Водз асылын лэччи Эжва дорӧ вуграсьны .
+1	Водз	водз	ADV	_	_	2	advmod	_	_
+2	асылын	асыв	NOUN	_	_	3	obl	_	_
+3	лэччи	лэччыны	VERB	_	_	0	root	_	_
+4	Эжва	Эжва	NOUN	_	_	3	obl	_	_
+5	дорӧ	дор	ADP	_	_	4	case	_	_
+6	вуграсьны	вуграсьны	VERB	_	_	3	xcomp	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = belyx-011.001
+# text = Но чериыс мыйлакӧ эз сёй .
+1	Но	но	CCONJ	_	_	5	cc	_	_
+2	чериыс	чери	NOUN	_	_	5	nsubj	_	_
+3	мыйлакӧ	мыйлакӧ	PRON	_	_	5	advmod	_	_
+4	эз	оз	AUX	_	_	5	aux	_	_
+5	сёй	сёйны	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = belyx-011.002
+# text = Кӧть луныс вӧлі зэв мича .
+1	Кӧть	кӧть	SCONJ	_	_	5	mark	_	_
+2	луныс	лун	NOUN	_	_	5	nsubj	_	_
+3	вӧлі	вӧвны	VERB	_	_	5	aux	_	_
+4	зэв	зэв	ADV	_	_	5	advmod	_	_
+5	мича	мича	ADJ	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = belyx-011.003
+# text = Шондіыс нем·жалиттӧг пӧжис .
+1	Шондіыс	шонді	NOUN	_	_	3	nsubj	_	_
+2	нем·жалиттӧг	нем·жалиттӧг	ADV	_	_	3	advmod	_	_
+3	пӧжис	пӧжны	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = belyx-011.004
+# text = Енэжын ни ӧти кымӧртор эз тыдав .
+1	Енэжын	енэж	NOUN	_	_	6	obl	_	_
+2	ни	ни	PART	_	_	3	advmod	_	_
+3	ӧти	ӧти	NUM	_	_	4	nummod	_	_
+4	кымӧртор	кымӧртор	NOUN	_	_	6	nsubj	_	_
+5	эз	оз	AUX	_	_	6	aux	_	_
+6	тыдав	тыдавны	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = belyx-011.005
+# text = Пӧсь сынӧдыс кыскис вын-эбӧстӧ .
+1	Пӧсь	пӧсь	ADJ	_	_	2	amod	_	_
+2	сынӧдыс	сынӧд	NOUN	_	_	3	nsubj	_	_
+3	кыскис	кыскыны	VERB	_	_	0	root	_	_
+4	вын-эбӧстӧ	вын-эбӧс	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = belyx-011.006
+# text = Дзикӧдз жайӧдіс .
+1	Дзикӧдз	дзикӧдз	ADV	_	_	2	advmod	_	_
+2	жайӧдіс	жайӧдны	VERB	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = belyx-011.007
+# text = Весиг юсянь неуна локтысь ыркыдыс эз кокньӧд .
+1	Весиг	весиг	ADV	_	_	5	advmod	_	_
+2	юсянь	ю	NOUN	_	_	4	obl	_	_
+3	неуна	неуна	ADV	_	_	4	advmod	_	_
+4	локтысь	локны	VERB	_	_	5	acl	_	_
+5	ыркыдыс	ыркыд	ADJ	_	_	7	nsubj	_	_
+6	эз	оз	AUX	_	_	7	aux	_	_
+7	кокньӧд	кокньӧдны	VERB	_	_	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = belyx-011.009
+# text = Лун шӧр кадланьыс нин кыськӧ шур-шар воис неыджыд тӧвру .
+1	Лун	лун	NOUN	_	_	2	nmod	_	_
+2	шӧр	шӧр	ADJ	_	_	3	amod	_	_
+3	кадланьыс	кад	NOUN	_	_	5	obl	_	_
+4	нин	нин	ADV	_	_	5	advmod	_	_
+5	кыськӧ	кысь	ADV	_	_	7	obl	_	_
+6	шур-шар	шур-шар	ADV	_	_	7	advmod	_	_
+7	воис	воны	VERB	_	_	0	root	_	_
+8	неыджыд	неыджыд	ADJ	_	_	9	amod	_	_
+9	тӧвру	тӧвру	NOUN	_	_	7	nsubj	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = belyx-011.010
+# text = И кокниджыка лолавсьыны кутіс .
+1	И	и	SCONJ	_	_	4	cc	_	_
+2	кокниджыка	кокни	ADJ	_	_	3	amod	_	_
+3	лолавсьыны	лолавсьыны	VERB	_	_	4	xcomp	_	_
+4	кутіс	кутны	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = belyx-011.011
+# text = Эг и тӧдлы , кыдзи юр·весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .
+1	Эг	оз	AUX	V	_	3	aux	_	_
+2	и	и	PART	Pcle	_	3	advmod	_	_
+3	тӧдлы	тӧд	VERB	VERB	_	0	root	_	_
+4	,	,	PUNCT	CLB	_	10	punct	_	_
+5	кыдзи	кыдзи	PRON	Pron	_	10	cc	_	_
+6	юр·весьтын	юр·весьт	NOUN	N	_	10	obl	_	_
+7	ӧти	ӧти	NUM	Num	_	8	nmod	_	_
+8	бӧрся	бӧрся	ADP	Po	_	9	case	_	_
+9	мӧд	мӧд	PRON	Pron	_	10	nmod	_	_
+10	тыдовтчисны	тыдовтчыны	VERB	V	_	3	advcl	_	_
+11	кымӧрторъяс	кымӧртор	NOUN	N	_	10	nsubj	_	_
+12	.	.	PUNCT	CLB	_	3	punct	_	_
+

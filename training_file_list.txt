@@ -1,0 +1,5 @@
+#/home/ktlim/parser/multilingual-bist-parser/corpus/ud-treebanks-v2.0/UD_English/en-ud-train.conllu|||en
+#/home/ktlim/parser/multilingual-bist-parser/corpus/ud-treebanks-v2.0/UD_Russian/ru-ud-train.conllu|||ru
+/home/ktlim/parser/multilingual-bist-parser/corpus/ud-treebanks-v2.0/UD_Finnish/fi-ud-train.conllu|||fi
+/home/ktlim/parser/multilingual-bist-parser/corpus/ud-treebanks-v2.0/UD_North_Sami/sme-ud-train_200.conllu|||sme
+#/home/ktlim/parser/multilingual-bist-parser/corpus/ud-treebanks-v2.0/UD_Komi/kpv-ud-train_200.conllu|||kpv
