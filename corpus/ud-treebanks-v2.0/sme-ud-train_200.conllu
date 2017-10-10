@@ -1,0 +1,2277 @@
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1053
+# text = Golbma čáppa, doaimmalaš nieidda livžo áhčiset riegádanbeaivve.
+1	Golbma	golbma	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+2	čáppa	čáppat	ADJ	A	_	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	doaimmalaš	doaimmalaš	ADJ	A	_	5	amod	_	_
+5	nieidda	nieida	NOUN	N	Case=Gen|Number=Sing	6	nsubj	_	_
+6	livžo	livžut	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	áhčiset	áhčči	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nmod:poss	_	_
+8	riegádanbeaivve	riegádanbeaivi	NOUN	N	Case=Gen|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = 1054
+# text = Gonagas Agrippa ja dii buohkat geat lehpet dás minguin!
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
+2	Agrippa	Agrippa	PROPN	N	Case=Nom|Number=Sing	0	root	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	dii	don	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	conj	_	_
+5	buohkat	buohkat	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	appos	_	_
+6	geat	gii	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+7	lehpet	leat	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dás	dás	ADV	Adv	_	7	advmod	_	_
+9	minguin	mun	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	!	^excl	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1055
+# text = Gonagas sáhttá mearridit dábálaš njuolggadusaid báikkálaš dilálašvuođaid ektui.
+1	Gonagas	gonagas	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	mearridit	mearridit	VERB	V	VerbForm=Inf	0	root	_	_
+4	dábálaš	dábálaš	ADJ	A	_	5	amod	_	_
+5	njuolggadusaid	njuolggadus	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+6	báikkálaš	báikkálaš	ADJ	A	_	7	amod	_	_
+7	dilálašvuođaid	dilálašvuohta	NOUN	N	Case=Gen|Number=Plur	3	obl	_	_
+8	ektui	ektui	ADP	Po	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	ADV	Adv	_	4	advmod	_	_
+2	dáppe	dáppe	ADV	Adv	_	4	advmod	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	máddi	máddi	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = 1057
+# text = Gosa don čihket dan?
+1	Gosa	gosa	ADV	Adv	_	3	advmod	_	_
+2	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	čihket	čiehkat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dan	dat	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1058
+# text = Govt lei vuodjit Olmmáivákkis deike?
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1059
+# text = Gozihanlávdegoddi galgá fidnet buot dábuhahtti dieđuid Finnmárkkuopmodagas, maid dárbbaša dahkamušaidis čađaheapmái.
+1	Gozihanlávdegoddi	gozihanlávdegoddi	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fidnet	fidnet	VERB	V	VerbForm=Inf	0	root	_	_
+4	buot	buot	PRON	Pron	PronType=Ind	6	amod	_	_
+5	dábuhahtti	dábuhit	VERB	V*	Tense=Pres|VerbForm=Part	6	acl	_	_
+6	dieđuid	diehtu	NOUN	N	Case=Acc|Number=Plur	3	obj	_	_
+7	Finnmárkkuopmodagas	Finnmárkkuopmodat	PROPN	N	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	3	punct	_	_
+9	maid	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	_
+10	dárbbaša	dárbbašit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dahkamušaidis	dahkamuš	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	_
+12	čađaheapmái	čađaheapmi	NOUN	N	Case=Ill|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1060
+# text = Gravismearka adnojuvvo sámegielas dušše muhtun vierronamain.
+1	Gravismearka	gravismearka	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	adnojuvvo	atnit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sámegielas	sámegiella	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	dušše	dušše	ADV	Adv	_	5	advmod	_	_
+5	muhtun	muhtun	PRON	Pron	PronType=Ind	6	amod	_	_
+6	vierronamain	vierronamma	NOUN	N	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1061
+# text = Guhkkelis boaittobeale orru mánát bohte Gárdima ja Mollešjoga, Šuoššjávrri ja Iešjohleagi duoddarstobuin.
+1	Guhkkelis	guhkkelis	ADV	Adv	_	5	advmod	_	_
+2	boaittobeale	boaittobealli	NOUN	N	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	orru	orrut	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	mánát	mánná	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+5	bohte	boahtit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Gárdima	Gárdin	PROPN	N	Case=Gen|Number=Sing	13	nmod:poss	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	Mollešjoga	Mollešjohka	PROPN	N	Case=Gen|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	5	punct	_	_
+10	Šuoššjávrri	Šuoššjávri	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Iešjohleagi	Iešjohleahki	PROPN	N	Case=Gen|Number=Sing	6	conj	_	_
+13	duoddarstobuin	duoddarstohpu	NOUN	N	Case=Loc|Number=Plur	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1062
+# text = Guhkás son bálkestii spáppa.
+1	Guhkás	guhkás	ADV	Adv	_	3	advmod	_	_
+2	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bálkestii	bálkestit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	spáppa	spábba	NOUN	N	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1064
+# text = Guokte jahkásaš doavttergrádakurssa leat lágiduvvon.
+1	Guokte	guokte	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
+2	jahkásaš	jahkásaš	ADJ	A	_	3	amod	_	_
+3	doavttergrádakurssa	doavttergrádakursa	NOUN	N	Case=Gen|Number=Sing	5	nsubj	_	_
+4	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lágiduvvon	lágidit	VERB	V*	Aspect=Perf|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1065
+# text = Guokte nissona ferdneba milluin.
+1	Guokte	guokte	NUM	Num	Case=Acc|Number=Sing|NumType=Card	2	nummod	_	_
+2	nissona	nisu	NOUN	N	Case=Gen|Number=Sing	3	obj	_	_
+3	ferdneba	ferdnet	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	milluin	millu	NOUN	N	Case=Com|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1066
+# text = Guollebivdu jogain ja jávrriin.
+1	Guollebivdu	guollebivdu	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+2	jogain	johka	NOUN	N	Case=Loc|Number=Plur	1	nmod	_	_
+3	ja	ja	CCONJ	CC	_	2	cc	_	_
+4	jávrriin	jávri	NOUN	N	Case=Loc|Number=Plur	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = 1067
+# text = Guovddáš lea fágalaččat iešbirgejeaddji ásahus.
+1	Guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	fágalaččat	fágalaš	ADV	A*	_	5	advmod	_	_
+4	iešbirgejeaddji	iešbirgejeaddji	ADJ	A	_	5	amod	_	_
+5	ásahus	ásahus	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1068
+# text = Guovddážis dán barggus lea Sámi dutkamiid guovddáš.
+1	Guovddážis	guovddáš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+2	dán	dát	PRON	Pron	Case=Loc|Number=Sing|PronType=Dem	3	amod	_	_
+3	barggus	bargu	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+4	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	Sámi	Sápmi	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	dutkamiid	dutkan	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	guovddáš	guovddáš	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = 1069
+# text = Guovlluid dearvvašvuođafitnodagain gáibiduvvojit dakkár rutiinnat.
+1	Guovlluid	guovlu	NOUN	N	Case=Gen|Number=Plur	2	nmod:poss	_	_
+2	dearvvašvuođafitnodagain	dearvvašvuođafitnodat	NOUN	N	Case=Loc|Number=Plur	3	obl	_	_
+3	gáibiduvvojit	gáibidit	VERB	V*	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	dakkár	dakkár	PRON	Pron	PronType=Dem	5	amod	_	_
+5	rutiinnat	rutiidna	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	orohaga	orohat	NOUN	N	Case=Gen|Number=Sing	2	obl	_	_
+4	olggobealde	olggobealde	ADP	Po	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1072
+# text = Gáibádussan lea ahte olbmos lea sámegiella ruovttogiellan.
+1	Gáibádussan	gáibádus	NOUN	N	Case=Ess	2	advmod	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ahte	ahte	SCONJ	CS	_	7	mark	_	_
+4	olbmos	olmmoš	NOUN	N	Case=Loc|Number=Sing	7	obl	_	_
+5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	sámegiella	sámegiella	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+7	ruovttogiellan	ruovttogiella	NOUN	N	Case=Ess	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = 1073
+# text = Gávpotbussiin olbmot dávjá fertejit čuožžut.
+1	Gávpotbussiin	gávpotbusse	NOUN	N	Case=Loc|Number=Plur	5	obl	_	_
+2	olbmot	olmmoš	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
+3	dávjá	dávjá	ADV	Adv	_	5	advmod	_	_
+4	fertejit	fertet	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	čuožžut	čuožžut	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = 1075
+# text = Hans A. Oppstad lei sátnejođiheaddji mu Skuvvanári álgojagiid.
+1	Hans	Hans	PROPN	N	_	5	nsubj	_	_
+2	A.	a	NOUN	N	_	1	flat	_	_
+3	Oppstad	Oppstad	PROPN	N	Case=Nom|Number=Sing	2	flat	_	_
+4	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	sátnejođiheaddji	sátnejođiheaddji	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
+6	mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	Skuvvanári	skuvvanárri	NOUN	N	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	álgojagiid	álgojahki	NOUN	N	Case=Gen|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
