@@ -34,7 +34,7 @@ the output model would be different between original BIST-parser in terms of per
 ```
     sudo pip install cython 
     sudo apt-get install libboost-all-dev
-    sodo pip install numpy
+    sudo pip install numpy
     cd dynet-base
     cd dynet
     mkdir build
@@ -45,6 +45,8 @@ the output model would be different between original BIST-parser in terms of per
     sudo python setup.py build
     sudo python setup.py install --user
 ```
+
+On Macintosh we have succesfully installed Dynet and eigen following [these instructions](https://github.com/clab/dynet/blob/master/doc/source/python.rst#manual-installation) with Dynet version 2.0 and Boost version 1.6.
 
 ## How to train the parser?
 
