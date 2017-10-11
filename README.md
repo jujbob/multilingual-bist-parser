@@ -18,8 +18,9 @@ the output model would be different between original BIST-parser in terms of per
 ## Dependencies
 
  * Python 2.7 interpreter
- * [DyNet 1.2 library](https://github.com/clab/dynet/tree/master/python)
-  - boost-1.60.0, boost-1.58.0,  <B>boost-1.61.0 --> you can run it but need to fix some codes [here](https://github.com/elikip/bist-parser/issues/15)</B>
+ * [DyNet 1.1 library](https://github.com/clab/dynet/tree/master/python)
+  - boost-1.60.0, boost-1.58.0,  
+  - Or <B>boost-1.61.0 ~ 1.65.0:</B> you can run it but need to fix <b>self.trainer.update_epoch() -->>  self.trainer.update()</B> for a file "bist-parser/bmstparser/src/mstlstm.py" [ref](https://github.com/elikip/bist-parser/issues/15)
   - eigen hg clone https://bitbucket.org/eigen/eigen 
  
  Causion: based on version of Boost and Dynet, you may get different performance!!
@@ -85,5 +86,5 @@ Paper for 2017 CoNLL shared Task: Multilingual Parsing from Raw Text to Universa
 
 ## Contact
 
-If you have any questions or suggestions, please send an email or write an issue
+If you have any questions or suggestions, please send an email jujbob@gmail.com
 
