@@ -53,6 +53,14 @@ On Macintosh we have succesfully installed Dynet and eigen following [these inst
 
 #### An Example for training North Sami and Finnish
 ```
+    cd $PARSERHOME
+    mkdir external_embeddings
+    cd external_embeddings
+    wget https://mycore.core-cloud.net/index.php/s/gbHTEsIllrbQVKy/download  # Download a multilingual word embedding
+    bzip2 -d download
+    mv download.out model_sme_fin_no.vec
+    
+    cd ..   # move to $PARSERHOME
     vi train_bmst_multi_sme.sh   # change PRJ_DIR path for your home directory
      - PRJ_DIR=/home/ktlim/parser/multilingual-bist-parser
     vi training_file_list.txt    # change corpus path for your home directory
